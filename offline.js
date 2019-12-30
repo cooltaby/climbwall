@@ -1,0 +1,33 @@
+﻿{
+	"version": 1577685732,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/hudbest-sheet0.png",
+		"images/hudscore-sheet0.png",
+		"images/circularsaw-sheet0.png",
+		"images/circularsaw-sheet1.png",
+		"images/player-sheet0.png",
+		"images/player-sheet1.png",
+		"images/wallleft.png",
+		"images/background2000-sheet0.png",
+		"images/climbwalls-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"media/jump.m4a",
+		"media/jump.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"alpha_echo-webfont.eot",
+		"alpha_echo-webfont.svg",
+		"alpha_echo-webfont.ttf",
+		"alpha_echo-webfont.woff",
+		"stylesheet.css"
+	]
+}
